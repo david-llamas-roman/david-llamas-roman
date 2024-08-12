@@ -7,7 +7,7 @@ I never give up, I want to people can see in me an example of a normal person wh
 - 🚀 → The rocket represent a costant growth, a constant advance
 - ✨ → The starry sky represent that there is not a roof, there are a lot of goals and each goal can be higher than the previous
 
-## 🧠 Some of my skills 💡
+## 🧠 Some of my skills
 - I am very creative, I am always thinking about something
 - My english level is not the best, but I think that I can get by
 - HTML engineer 😎

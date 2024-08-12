@@ -12,6 +12,7 @@ I never give up, I want to people can see in me an example of a normal person wh
 - My english level is not the best, but I think that I can get by
 - HTML engineer 😎
 
+## 📱 Social Networks & Media
 <div align=center>
   <a href="https://youtube.com/@mrindiscipline"><img src="img/logos/youtube.svg" alt="youtube" width=52></a> •
   <a href="https://instagram.com/immrindiscipline"><img src="img/logos/instagram.svg" alt="instagram" width=40></a> •

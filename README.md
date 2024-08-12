@@ -1,16 +1,13 @@
-## Hi there 👋
+> [!CAUTION]
+> If you have a developer card, run away. Here are developers without them, real developers, people that make of this their passion
 
-<!--
-**david-llamas-roman/david-llamas-roman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Up to sky ✨
+I never give up, I want to people can see in me an example of a normal person who started to work and ended achieving their goals 🏆
+### 🌳 Slogan origin 🌱
+- 🚀 → The rocket represent a costant growth, a constant advance
+- ✨ → The starry sky represent that there is not a roof, there are a lot of goals and each goal can be higher than the previous
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Some of my skills 💡
+- I am very creative, I am always thinking about something
+- My english level is not the best, but I think that I can get by
+- HTML engineer 😎

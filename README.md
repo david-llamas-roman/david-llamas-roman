@@ -22,7 +22,7 @@ I never give up, I want to people can see in me an example of a normal person wh
 - My english level is not the best, but I think that I can get by
 - HTML engineer 😎
 
-## 🌐 DLR Universe
+## 🌐 DLR's Universe
 <h3 align=center>🥊 Las humillaciones, las risas y el odio forman parte del contrato. Firmado 😈</h3>
 <p align=center><!-- logo --></p>
 <div align=center>

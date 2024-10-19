@@ -2,7 +2,9 @@
 > [!CAUTION]
 > If you have a developer card, run away. Here are developers without them, real developers, people that make of this their passion
 
-<p align=center><!-- banner --></p>
+<p align=center>
+  <img src="./img/dlr/branding/dlr-github-banner.svg" alt="dlr banner">
+</p>
 <div align=center>
   <a href="https://youtube.com/@david_llamas_roman"><img src="img/logos/youtube.svg" alt="youtube" width=52></a> •
   <a href="https://instagram.com/david_llamas_roman"><img src="img/logos/instagram.svg" alt="instagram" width=40></a> •
@@ -22,15 +24,3 @@ I never give up, I want to people can see in me an example of a normal person wh
 - I am very creative, I am always thinking about something
 - My english level is not the best, but I think that I can get by
 - HTML engineer 😎
-
-## 🌐 DLR Universe
-<h3 align=center>🥊 Las humillaciones, las risas y el odio forman parte del contrato. Firmado 😈</h3>
-<p align=center><!-- logo --></p>
-<div align=center>
-  <a href="https://youtube.com/@mrindiscipline"><img src="img/logos/youtube.svg" alt="youtube" width=36></a> •
-  <a href="https://instagram.com/immrindiscipline"><img src="img/logos/instagram.svg" alt="instagram" width=28></a> •
-  <a href="https://tiktok.com/@immrindiscipline"><img src="img/logos/tiktok.svg" alt="tiktok" width=26></a> •
-  <a href="https://x.com/mrindiscipline"><img src="img/logos/x.svg" alt="x" width=31></a> •
-  <a href="https://threads.net/immrindiscipline"><img src="img/logos/threads.svg" alt="threads" width=26></a>
-  <!-- facebook page -->
-</div>

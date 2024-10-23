@@ -1,4 +1,4 @@
-# 👋 Hi, I am...
+# 👋 Hi, I am [David Llamas Román](https://github.com/david-llamas-roman/davidllamasroman.com)
 > [!CAUTION]
 > If you have a developer card, run away. Here are developers without them, real developers, people that make of this their passion
 
@@ -10,6 +10,7 @@
   <a href="https://instagram.com/david_llamas_roman"><img src="img/logos/instagram.svg" alt="instagram" width=40></a> •
   <a href="https://tiktok.com/@david_llamas_roman"><img src="img/logos/tiktok.svg" alt="tiktok" width=38></a> •
   <a href="https://threads.net/david_llamas_roman"><img src="img/logos/threads.svg" alt="threads" width=38></a>
+  <!-- x (old twitter) account -->
   <!-- facebook page -->
 </div>
 

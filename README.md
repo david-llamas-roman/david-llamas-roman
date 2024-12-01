@@ -6,12 +6,13 @@
   <img src="./img/dlr/branding/dlr-github-banner.svg" alt="dlr banner">
 </p>
 <div align=center>
+  <a href="https://www.linkedin.com/in/david-llamas-roman"><img src="img/logos/linkedin.svg" alt="linkedin" width=45></a> •
   <a href="https://youtube.com/@david_llamas_roman"><img src="img/logos/youtube.svg" alt="youtube" width=52></a> •
   <a href="https://instagram.com/david_llamas_roman"><img src="img/logos/instagram.svg" alt="instagram" width=40></a> •
   <a href="https://tiktok.com/@david_llamas_roman"><img src="img/logos/tiktok.svg" alt="tiktok" width=38></a> •
   <a href="https://threads.net/david_llamas_roman"><img src="img/logos/threads.svg" alt="threads" width=38></a>
-  <!-- x (old twitter) account -->
-  <!-- facebook page -->
+  <a href="https://x.com/david_llamas_r"><img src="img/logos/x.svg" alt="x" width=45></a> •
+  <a href="https://facebook.com/davidllamasrom"><img src="img/logos/facebook.svg" alt="facebook" width=45></a>
 </div>
 
 ## 🚀 Up to sky ✨

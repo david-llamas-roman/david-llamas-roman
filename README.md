@@ -6,7 +6,6 @@
   <img src="./img/dlr/branding/dlr-github-banner.svg" alt="dlr banner">
 </p>
 <div align=center>
-  <a href="https://www.linkedin.com/in/david-llamas-roman"><img src="img/logos/linkedin.svg" alt="linkedin" width=45></a> •
   <a href="https://youtube.com/@david_llamas_roman"><img src="img/logos/youtube.svg" alt="youtube" width=52></a> •
   <a href="https://instagram.com/david_llamas_roman"><img src="img/logos/instagram.svg" alt="instagram" width=40></a> •
   <a href="https://tiktok.com/@david_llamas_roman"><img src="img/logos/tiktok.svg" alt="tiktok" width=38></a> •

@@ -15,4 +15,3 @@ I never give up, I want to people can see in me an example of a normal person wh
 ## 🧠 Some of my skills
 - I am very creative, I am always thinking about something
 - My english level is not the best, but I think that I can get by
-- I define myself as an HTML engineer 😎
